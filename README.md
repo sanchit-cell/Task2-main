@@ -3,7 +3,7 @@
 ## Set Up and Start
 >  Clone the repo
 ```
-https://github.com/sanchit-cell/Task2.git
+https://github.com/sanchit-cell/Task2-main.git
 ```
  
  > For running DB locally use Docker 
