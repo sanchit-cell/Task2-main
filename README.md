@@ -5,6 +5,10 @@
 ```
 https://github.com/sanchit-cell/Task2-main.git
 ```
+> For running DB locally use Docker 
+ ```
+ docker run -e POSTGRES_PASSWORD=pass -d -p 5432:5432 postgres
+ ```
  > Generate the client
  ```
  cd .\backend
